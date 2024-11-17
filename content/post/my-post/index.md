@@ -1,7 +1,7 @@
 ---
 
 title: My First blog post
-date: 16/11/2024
+date: 2024-11-17
 
 
 Hello world🌍
